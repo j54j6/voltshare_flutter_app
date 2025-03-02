@@ -8,7 +8,7 @@ plugins {
 android {
     ndkVersion = "27.0.12077973"
     //ndkVersion = flutter.ndkVersion
-    namespace = "com.voltshare.voltshare"
+    namespace = "com.example.voltshare"
     compileSdk = flutter.compileSdkVersion
     
 
